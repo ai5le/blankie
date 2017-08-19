@@ -1,0 +1,23 @@
+/**
+ ** Theme Name: Blankie
+ ** Theme URI: http://ai5le.com/themes/blankie
+ ** Version: 1.0.0
+ ** Author: AI5LE
+ ** Author URI: http://ai5le.com
+ ** Description: Blankie is a blank starter theme
+ ** License: MIT
+ **/
+
+// Import Global Settings
+@import 'global/variables';
+@import 'global/mixins';
+@import 'global/layout';
+@import 'global/typography';
+// Import Components
+@import 'components/alerts';
+@import 'components/buttons';
+@import 'components/media';
+@import 'components/navigation';
+@import 'components/widgets';
+// Import Developing Styles
+@import 'develop';

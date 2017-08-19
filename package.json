@@ -1,0 +1,28 @@
+{
+  "name": "blankie",
+  "version": "1.0.0",
+  "description": "blankie is a blank starter theme.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai5le/blankie.git"
+  },
+  "keywords": [
+    "blank",
+    "wordpress",
+    "theme",
+    "starter",
+    "blankie"
+  ],
+  "author": "AI5LE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ai5le/blankie/issues"
+  },
+  "homepage": "https://github.com/ai5le/blankie#readme"
+}
